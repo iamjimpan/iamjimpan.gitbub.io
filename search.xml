@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/06/26/16-55-17/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>bon voyage!少年</title>
+    <url>/2021/07/05/22-46-31/</url>
+    <content><![CDATA[<p>关于博客的主题，无限制，海阔凭鱼跃，这才是自己为什么选择做博客，而不是公众号，短视频，甚至去雪球这种垂直类的社区。</p>
+<p>关于这次搭博客，也绝非一帆风顺，陆陆续续耗时10天，翻阅了不少教程，看了挺多代码，才走到如今可用的程度。要是把这段过程记录下来，可以是一个长的系列教程文章，不过写技术教程，绝非我所长。</p>
+<p>如果说这是一段长征之旅，到现在，只算是迈出一小步。正如毛主席的诗句：“雄关漫道真如铁，而今迈步从头越”。希望这是一段美妙的旅程！</p>
+<p>Bon Voyage!出发吧！今天我的开始我的博主之旅！</p>
+<p><img src="https://i.loli.net/2021/07/05/9k6x3MF5QOi8wNl.jpg" alt="dylan-mcleod-4zqvu9dyvSk-unsplash (1)"></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>article</title>
-    <url>/2021/06/27/14-59-22/</url>
-    <content><![CDATA[]]></content>
       <categories>
-        <category>技术</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
-        <tag>next</tag>
+        <tag>blog</tag>
       </tags>
   </entry>
 </search>
